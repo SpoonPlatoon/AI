@@ -33,12 +33,6 @@ namespace GoneHome
             //    Died();
             // }
 
-
-            if (other.name == "player")
-            {
-                audio.Play();
-            }
-
         }
 
     }
