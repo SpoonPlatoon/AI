@@ -30,7 +30,7 @@ namespace SunnyLand
             }
             else
             {
-                player.unCrouch();
+                player.UnCrouch();
             }
         }
 
